@@ -3,6 +3,10 @@ A text-to-speech cli tool using Azure Cognitive Services.
 
 Works with AHK (AutoHotKey) to read text from the clipboard.
 
+It's a learning project. Kindly don't use it for commercial purposes.
+
+Thanks for your star and fork.
+
 ## Usage
 ```bash
 # clone the repo
