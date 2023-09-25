@@ -1,3 +1,4 @@
 pydub==0.25.1
 requests==2.28.2
 websockets==10.4
+azure-cognitiveservices-speech==1.30.0

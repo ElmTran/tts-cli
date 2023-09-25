@@ -21,6 +21,7 @@ $ pip install -r requirements.txt
 # use the tool
 $ python tts.py --help
 
+$ python tts_azure.py --help
 ```
 
 You can get the supported languages and voices by accessing the Azure Service: [Supported languages](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support?tabs=tts#text-to-speech)
